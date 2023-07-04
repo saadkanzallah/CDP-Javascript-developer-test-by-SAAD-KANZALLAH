@@ -1,0 +1,11 @@
+{
+  "name": "cdp",
+  "version": "1.0.0",
+  "description": "CDP Javascript developer test by SAAD KANZALLAH",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saad KANZALLAH",
+  "license": "MIT"
+}
